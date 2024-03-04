@@ -1,0 +1,40 @@
+#container{
+    background-position: center;
+    background-size: 100% 100%;
+    display: flex;
+    margin: auto;
+    padding: 100px;
+
+}
+
+
+.element{
+    background-color:gainsboro;
+    width: 400px;
+    margin: auto; 
+    height: 100px;  
+    text-align: center;
+    align-content: center;
+    line-height: 100px;
+    box-sizing: content-box;
+    outline:gainsboro 10px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    
+}
+
+.element2{
+    visibility: hidden;
+    text-align: center;
+}
+
+.element1{
+    border-left: #b5395d;
+    text-align: center;
+
+}
+.element3{
+border-left: #319788;
+text-align: center;
+}

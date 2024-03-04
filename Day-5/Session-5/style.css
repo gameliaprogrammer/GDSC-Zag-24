@@ -1,0 +1,23 @@
+div{
+    
+    color: blue;
+    background-position:  top center ;
+    font-size: medium;
+    background-color: aliceblue;
+    background-size: 300px;
+    background-image: url(./about-img.png);
+    margin: auto;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-size: 10%;
+    text-align: center;
+}
+
+h1{
+    /* background-color: green;
+    padding: 0px 1px 15px 3px;
+    margin: auto;
+    border: 12px solid purple;
+    width: 50px; */
+}
+
