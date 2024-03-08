@@ -1,0 +1,47 @@
+.title {
+    color: white;
+    background-color: rgba(129, 2, 2, 0.897);
+    padding: 12px;
+    max-width: 400px;
+    max-height: 50px;
+    overflow: hidden;
+    width: fit-content;
+}
+
+.elzero {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.zero1 {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.zero2 {
+    font-size: 33px;
+    text-transform: capitalize;
+}
+.zero3{
+    font-size: 30px;
+}
+
+.end {
+    width: 400px;
+    background-color: rgb(223, 219, 213);
+    margin-bottom: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.task-3_2 {
+    height: 30px;
+    overflow: hidden;
+    line-height: 1.5;
+}
+
+.task-3_3 {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
